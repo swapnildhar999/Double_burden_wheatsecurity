@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archived release."
+title: "Double Burden of Wheat Security: analysis code and data (Egypt, Lebanon, Yemen, 2018-2024)"
+authors:
+  - family-names: Dhar
+    given-names: Swapnil
+    affiliation: "School of Life and Environmental Sciences, Deakin University"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: MIT
+keywords:
+  - wheat security
+  - armed conflict
+  - food import dependency
+  - composite vulnerability index
+  - Middle East

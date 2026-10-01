@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Logs and synthetic test outputs
+outputs/logs/
+tests/synthetic/
+
+# Raw data NOT redistributed (provider terms): download as described in DATA_ACCESS.md
+data/raw/acled/
+data/raw/acled_hdx/
+data/raw/comtrade/
+data/raw/batchA_original/
+data/raw/batchB_original/
+data/raw/batchC_original/
+
+# Large public inputs not stored for size: download as described in DATA_ACCESS.md
+data/raw/gaez/
+data/raw/rainfall/
+data/raw/wfp/
+data/raw/faostat/
+data/raw/worldbank/
+data/raw/shdi/
+data/raw/ipc/
+data/raw/rwi/
+data/raw/cod/
+
+# Event-level and flow-level derived files (would redistribute ACLED or Comtrade records)
+data/processed/acled_pv_2018_2021_adm1.csv
+data/processed/comtrade_reporter_clean.csv
+data/processed/trade_bilateral_composite.csv
+
+# Large map packages rebuilt by s09
+outputs/map_package/
+outputs/gis/*.gdb/
+outputs/gis/rasters/
