@@ -1,0 +1,59 @@
+iso3,adm1_id,adm1_name,adm1_key,boundary_source,area_km2
+EGY,46179711B25362750888095,Luxor Governate,luxor,geoBoundaries gbOpen,1889.6626468639868
+EGY,46179711B33216026370082,Matrouh Governorate,matrouh,geoBoundaries gbOpen,154153.30567579542
+EGY,46179711B35449682454923,Beni Suef Governorate,benisuef,geoBoundaries gbOpen,11005.885758380724
+EGY,46179711B4202910882635,Ismailia Governorate,ismailia,geoBoundaries gbOpen,4335.057405759692
+EGY,46179711B43356691250297,Faiyum Governorate,faiyum,geoBoundaries gbOpen,5688.301286576373
+EGY,46179711B46271687964482,Sohag Governorate,sohag,geoBoundaries gbOpen,10172.644408832912
+EGY,46179711B47059775380229,Qalyubia Governorate,qalyubia,geoBoundaries gbOpen,1178.0320033710134
+EGY,46179711B49513585270152,Monufia Governorate,monufia,geoBoundaries gbOpen,2062.7620048383865
+EGY,46179711B60822011452178,Qena Governorate,qena,geoBoundaries gbOpen,12319.97547093874
+EGY,46179711B64218004276609,New Valley Governorate,newvalley,geoBoundaries gbOpen,439086.42589355254
+EGY,46179711B66630674459803,Cairo Governorate,cairo,geoBoundaries gbOpen,3002.173918060782
+EGY,46179711B66765744751824,Damietta Governorate,damietta,geoBoundaries gbOpen,1016.4718765562761
+EGY,46179711B67626682469511,Giza Governorate,giza,geoBoundaries gbOpen,38184.53687329034
+EGY,46179711B69358139854301,South Sinai Governorate,southsinai,geoBoundaries gbOpen,29143.851447885627
+EGY,46179711B71025405794943,Port Said Governorate,portsaid,geoBoundaries gbOpen,1402.1667556451387
+EGY,46179711B72666466596415,North Sinai Governorate,northsinai,geoBoundaries gbOpen,27619.926419143558
+EGY,46179711B7819508184782,Minya Governate,minya,geoBoundaries gbOpen,29104.89895998681
+EGY,46179711B78983565091897,Gharbiyya Governorate,gharbiyya,geoBoundaries gbOpen,1844.764651187715
+EGY,46179711B81451673929301,Suez Governorate,suez,geoBoundaries gbOpen,9029.738742863585
+EGY,46179711B92366752825200,Beheira Governorate,beheira,geoBoundaries gbOpen,10983.241874872549
+EGY,46179711B93993738941206,Asyut Governorate,asyut,geoBoundaries gbOpen,13934.70778215288
+EGY,46179711B94144647788557,Red Sea Governorate,redsea,geoBoundaries gbOpen,120563.64063983188
+EGY,46179711B94393740490008,Kafr el-Sheikh Governorate,kafrelsheikh,geoBoundaries gbOpen,4207.373736903255
+EGY,46179711B96058986091554,Aswan Governorate,aswan,geoBoundaries gbOpen,56424.66738996602
+EGY,46179711B98212466425872,Dakahlia Governorate,dakahlia,geoBoundaries gbOpen,4271.3866871086475
+EGY,46179711B99510320348427,Al Sharqia Governorate,alsharqia,geoBoundaries gbOpen,4795.077729069191
+EGY,46179711B99776351599397,Alexandria Governorate,alexandria,geoBoundaries gbOpen,2584.7424001730733
+LBN,68408151B13555465262434,Beyrouth,beyrouth,geoBoundaries gbOpen,21.54096595604439
+LBN,68408151B17317068268844,Liban-Sud,libansud,geoBoundaries gbOpen,935.2158701015135
+LBN,68408151B19672163648714,Baalbek-Hermel,baalbekhermel,geoBoundaries gbOpen,2784.772047327059
+LBN,68408151B46493486830483,Nabatîyé,nabatiye,geoBoundaries gbOpen,1106.696870647862
+LBN,68408151B4671352582534,Keserwan-Jbeil,keserwanjbeil,geoBoundaries gbOpen,758.9171995408212
+LBN,68408151B59549752014872,Béqaa,beqaa,geoBoundaries gbOpen,1337.213666530687
+LBN,68408151B65529488220063,Liban-Nord,libannord,geoBoundaries gbOpen,1232.6421844352208
+LBN,68408151B78911970066467,Mont-Liban,montliban,geoBoundaries gbOpen,1202.7568184879192
+LBN,68408151B85296590469481,Aakkâr,aakkar,geoBoundaries gbOpen,796.2647679617372
+YEM,18629408B11680885550387,Ad Dali' Governorate,addali,geoBoundaries gbOpen,3999.5080376753767
+YEM,18629408B11945654439238,‘Adan Governorate,adan,geoBoundaries gbOpen,733.7081292403931
+YEM,18629408B15889281866717,Al Mahrah Governorate,almahrah,geoBoundaries gbOpen,66448.52059803542
+YEM,18629408B1777518619063,Ma'rib Governorate,marib,geoBoundaries gbOpen,17489.826260200065
+YEM,18629408B38984328739410,Al Mahwit Governorate,almahwit,geoBoundaries gbOpen,2326.9505756416866
+YEM,18629408B46389326189415,Lahij Governorate,lahij,geoBoundaries gbOpen,12639.37018489011
+YEM,18629408B48104637123824,Sanʿaʾ,sana,geoBoundaries gbOpen,534.3203810235648
+YEM,18629408B49078263925584,Hadhramaut,hadhramaut,geoBoundaries gbOpen,162555.4729813111
+YEM,18629408B52441229698015,Sa'dah Governorate,sadah,geoBoundaries gbOpen,12393.801665796445
+YEM,18629408B5376796402494,Ibb Governorate,ibb,geoBoundaries gbOpen,5347.3444051904335
+YEM,18629408B57175931824869,Socotra,socotra,geoBoundaries gbOpen,3771.407162183617
+YEM,18629408B61413037281915,Dhamar Governorate,dhamar,geoBoundaries gbOpen,7587.9234822051485
+YEM,18629408B64822604790923,Sanʿaʾ Governorate,sana,geoBoundaries gbOpen,11769.642470299566
+YEM,18629408B66245584752084,Ta'izz Governorate,taizz,geoBoundaries gbOpen,10001.201377047308
+YEM,18629408B71394624267216,Al Hudaydah Governorate,alhudaydah,geoBoundaries gbOpen,13203.180702534784
+YEM,18629408B7407331306690,Al Jawf Governorate,aljawf,geoBoundaries gbOpen,39531.73937053862
+YEM,18629408B74393010790481,Al Bayda' Governorate,albayda,geoBoundaries gbOpen,9279.470536043014
+YEM,18629408B80220723955267,Raymah Governorate,raymah,geoBoundaries gbOpen,1892.5206249262756
+YEM,18629408B8528421017910,Shabwah Governorate,shabwah,geoBoundaries gbOpen,38836.62864967804
+YEM,18629408B8726373480353,Hajjah Governorate,hajjah,geoBoundaries gbOpen,8303.924955658711
+YEM,18629408B92684990065302,Abyan Governorate,abyan,geoBoundaries gbOpen,16316.574096461147
+YEM,18629408B98087459973468,'Amran Governorate,amran,geoBoundaries gbOpen,7902.706084495142

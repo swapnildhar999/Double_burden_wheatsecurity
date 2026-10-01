@@ -1,0 +1,11 @@
+iso3,port,latitude,longitude,note
+EGY,Alexandria,31.18,29.87,approximate harbour centroid; verify against NGA World Port Index
+EGY,Damietta,31.47,31.76,approximate harbour centroid; verify against NGA World Port Index
+EGY,East Port Said,31.23,32.35,approximate harbour centroid; verify against NGA World Port Index
+EGY,Safaga,26.73,33.94,approximate harbour centroid; verify against NGA World Port Index
+LBN,Beirut,33.90,35.52,approximate harbour centroid; verify against NGA World Port Index
+LBN,Tripoli,34.46,35.83,approximate harbour centroid; verify against NGA World Port Index
+YEM,Al Hudaydah,14.83,42.93,approximate harbour centroid; verify against NGA World Port Index
+YEM,As Salif,15.31,42.67,approximate harbour centroid; verify against NGA World Port Index
+YEM,Aden,12.79,44.98,approximate harbour centroid; verify against NGA World Port Index
+YEM,Al Mukalla,14.52,49.14,approximate harbour centroid; verify against NGA World Port Index
